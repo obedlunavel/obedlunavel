@@ -16,7 +16,7 @@ Psicólogo clínico en transición al desarrollo de software, apasionado por la 
 
 ### 🤖 Micro Calabozos y Chatbots (RPG de Texto con IA como DM)
 
-* **[Enlace al Repositorio en GitHub]([https://github.com/obedlunavel/chatbot-calabozos-y-dragones])**
+* **[Enlace al Repositorio en GitHub][https://github.com/obedlunavel/chatbot-calabozos-y-dragones]**
 * **Descripción:** Un juego de rol (RPG) conversacional de texto inspirado en Dungeons & Dragons, desarrollado en Python con una interfaz gráfica creada usando Tkinter y `ttk`. Este proyecto utiliza múltiples APIs de Modelos de Lenguaje Grandes (OpenAI GPT-3.5, Google Gemini, DeepSeek) para que una IA actúe como Dungeon Master (DM), generando narrativas dinámicas, gestionando eventos del juego y respondiendo a las acciones del jugador en tiempo real.
 * **Tecnologías y Características Demostradas:**
     * **Integración Multi-API:** Conexión y gestión de múltiples APIs de LLM con rotación automática (`HybridAIConnector`, `python-dotenv`).
